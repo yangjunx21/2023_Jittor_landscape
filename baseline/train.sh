@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES="0,1,4,5,6" python train.py --input_path ./data/train_resized
